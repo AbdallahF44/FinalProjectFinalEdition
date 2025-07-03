@@ -19,7 +19,21 @@ The project is developed using HTML, CSS, and JavaScript to provide a dynamic us
 
 ## Project Structure
 
-<pre> ``` FinalProjectFinalEdition/ ├── adminPage.html ├── index.html ├── logInPage.html ├── registerPage.html ├── css/ │ ├── style.css │ └── bootstrap.min.css ├── js/ │ ├── script.js │ └── validation.js ├── img/ │ └── ...images and icons... ├── webfonts/ │ └── ...custom fonts... └── README.md (you can add this file) ``` </pre>
+FinalProjectFinalEdition:
+- *adminPage.html*
+- *index.html*
+- *logInPage.html*
+- *registerPage.html*
+- *css:*
+  - *style.css*
+  - *bootstrap.min.css*
+- *js:*
+  - *script.js*
+  - *validation.js*
+- *img:*
+  - *...images and icons...*
+- *webfonts:*
+  - *...custom fonts...*
 
 ## How to Run
 
