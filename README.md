@@ -25,11 +25,9 @@ FinalProjectFinalEdition:
 - *logInPage.html*
 - *registerPage.html*
 - *css:*
-  - *style.css*
-  - *bootstrap.min.css*
+  - *...css files...*
 - *js:*
-  - *script.js*
-  - *validation.js*
+  - *...js files...*
 - *img:*
   - *...images and icons...*
 - *webfonts:*
